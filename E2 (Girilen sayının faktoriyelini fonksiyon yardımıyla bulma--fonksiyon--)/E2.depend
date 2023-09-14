@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1676157486 source:c:\users\hp\desktop\c programlama\e2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1676157486 source:c:\users\hp\desktop\c programlama\e2 (girilen sayýnýn faktoriyelini fonksiyon yardýmýyla bulma--fonksiyon--)\main.c
+	<stdio.h>
+	<stdlib.h>
+

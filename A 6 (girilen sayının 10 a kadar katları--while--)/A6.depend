@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1675899299 source:c:\users\hp\desktop\c programlama\a6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1682769816 source:c:\users\hp\desktop\c programlama\a6 (girilen sayýnýn 10 a kadar katlarý--while--)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+

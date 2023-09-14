@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676583584 source:c:\users\hp\desktop\c programlama\e5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

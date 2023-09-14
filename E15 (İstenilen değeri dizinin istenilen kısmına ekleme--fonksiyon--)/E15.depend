@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1676585963 source:c:\users\hp\desktop\c programlama\e15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1676585963 source:c:\users\hp\desktop\c programlama\e15 (Ýstenilen deðeri dizinin istenilen kýsmýna ekleme--fonksiyon--)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

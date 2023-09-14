@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1675899672 source:c:\users\hp\desktop\c programlama\a6.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1675899672 source:c:\users\hp\desktop\c programlama\a6.1 (girilen sayýdan 1 e kadar azalarak yazdýrma--while--)\main.c
+	<stdio.h>
+	<stdlib.h>
+

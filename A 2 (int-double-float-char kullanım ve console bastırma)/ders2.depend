@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1675763576 source:c:\users\hp\desktop\c programlama\ders2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1675763576 source:c:\users\hp\desktop\c programlama\a2(int-double-float-char kullaným ve console bastýrma)\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683108477 source:c:\users\hp\desktop\c programlama\a17.11 (bir karakter dizisindeki bütün harfleri küçük harf yapma--strlwr--)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
