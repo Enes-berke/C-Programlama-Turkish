@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1675940427 source:c:\users\hp\desktop\c programlama\a9.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1680220054 source:c:\users\hp\desktop\c programlama\a9.1 (a ve b deðerleri girilen operatöre göre iþlem yaptýrma--switch-case--)\main.c
+	<stdio.h>
+	<stdlib.h>
+
