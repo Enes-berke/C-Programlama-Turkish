@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1675968312 source:c:\users\hp\desktop\c programlama\a14.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1675968727 source:c:\users\hp\desktop\c programlama\a14.1 (5 elemanlý dizi tanýmlama ve kullanýcýdan diziye eleman eklemesini isteme)\main.c
+	<stdio.h>
+	<stdlib.h>
+
