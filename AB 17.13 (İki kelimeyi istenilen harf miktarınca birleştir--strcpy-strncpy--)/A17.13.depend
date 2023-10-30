@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676059880 source:c:\users\hp\desktop\c programlama\a17.13 (Ýki kelimeyi istenilen harf miktarýnca birleþtir--strcpy-strncpy--)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
