@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676060187 source:c:\users\hp\desktop\c programlama\a17.14 (karakter dizisinin 4. elemanýnýn 3. karakterini yazdýr)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
