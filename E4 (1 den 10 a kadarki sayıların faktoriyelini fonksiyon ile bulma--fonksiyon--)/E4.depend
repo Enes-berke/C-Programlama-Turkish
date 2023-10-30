@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676158880 source:c:\users\hp\desktop\c programlama\e4 (1 den 10 a kadarki sayýlarýn faktoriyelini fonksiyon ile bulma--fonksiyon--)\main.c
+	<stdio.h>
+	<stdlib.h>
+
