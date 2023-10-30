@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676411488 source:c:\users\hp\desktop\c programlama\d4 (boﬁ)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
