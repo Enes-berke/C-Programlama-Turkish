@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1676056856 source:c:\users\hp\desktop\c programlama\a17.7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1676056856 source:c:\users\hp\desktop\c programlama\a17.7 (Ýki karakter dizisini birleþtirme--strcat--)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
