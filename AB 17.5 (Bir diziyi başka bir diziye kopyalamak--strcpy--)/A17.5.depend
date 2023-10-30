@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680500200 source:c:\users\hp\desktop\c programlama\a17.5 (bir diziyi baþka bir diziye kopyalamak--strcpy--)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
