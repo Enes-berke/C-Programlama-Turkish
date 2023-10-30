@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1676154733 source:c:\users\hp\desktop\c programlama\d2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1676154733 source:c:\users\hp\desktop\c programlama\d2 (cümlede girilen karakter sayýsýný bulma--gets-while--)\main.c
+	<stdio.h>
+	<stdlib.h>
+
