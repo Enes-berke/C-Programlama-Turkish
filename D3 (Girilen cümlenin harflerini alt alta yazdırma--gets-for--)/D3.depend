@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683025364 source:c:\users\hp\desktop\c programlama\d3 (girilen cümlenin harflerini alt alta yazdýrma--gets-for--)\main.c
+	<stdio.h>
+	<stdlib.h>
+
