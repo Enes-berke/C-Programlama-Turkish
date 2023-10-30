@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1676496899 source:c:\users\hp\desktop\c programlama\e10\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1676502809 source:c:\users\hp\desktop\c programlama\e10 (floyd üçgeni oluþturma)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
