@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1676499978 source:c:\users\hp\desktop\c programlama\e12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1676500079 source:c:\users\hp\desktop\c programlama\e12 (Ýstenilen deðeri diziden silme iþlemi--for-if-else--)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
