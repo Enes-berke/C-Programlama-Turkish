@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1676055991 source:c:\users\hp\desktop\c programlama\a17.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1676055991 source:c:\users\hp\desktop\c programlama\a17.3 (Ýki diziyi karþýlaþtýrma--strcmp--)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
