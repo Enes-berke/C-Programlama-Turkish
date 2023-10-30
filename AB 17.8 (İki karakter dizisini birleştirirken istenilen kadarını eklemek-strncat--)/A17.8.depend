@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683108150 source:c:\users\hp\desktop\c programlama\a17.8 (Ýki karakter dizisini birleþtirirken istenilen kadarýný eklemek-strncat--)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
